@@ -1,0 +1,3 @@
+interface Squeakable {
+    void squeak();
+}
